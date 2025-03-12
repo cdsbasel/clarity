@@ -1,0 +1,26 @@
+---
+title: "Conceptual Clarity"
+description: |
+  Interdisciplinary Workshop, September 10-12, 2025, Basel, Switzerland. 
+  
+output: 
+  distill::distill_article:
+    md_extensions: +emoji
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+Given the promise of large language models (LLMs) for understanding and predicting human behavior, it is crucial to develop a clear plan for tapping into this rich resource and make behavioral scientists aware of best practices and potential pitfalls in the use of such models. The objective of the **LLMs for Behavioral Science Workshop** is to provide a platform for researchers to discuss the successes, challenges, and future possibilities of using language models for behavioral science research, create a collaborative hub of researchers, and develop a unified vision for the use of language models in the behavioral sciences. 
+
+One goal of the workshop is to provide a training opportunity for early-career (doctoral, postdoctoral) researchers through attending lectures, discussions, and interacting with experts in the field. The workshop also includes a hands-on **[training](training.html)** component to take place on the first day.  
+
+The workshop will gather a core faculty consisting of leading researchers in the computational and behavioral sciences as well as a number of early-career researchers in these fields who will engage in active and structured discussions around specific themes as detailed in the **[workshop](workshop.html)** program. See the section on **[people](people.html)** for a full list of participants.
+
+<aside>
+Want to get in touch? Send us an email at [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch)!
+</aside>

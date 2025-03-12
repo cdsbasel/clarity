@@ -1,0 +1,31 @@
+---
+title: "Conceptual Clarity"
+description: |
+  Exploring the potential and challenges of large language models for understanding and predicting human behavior
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Goals
+
+Advances in machine learning have produced models that can help interpret and generate large amounts of text. These models have tremendous value for research in the behavioral sciences, however, research is only beginning to exploit their potential. In this workshop, we aim to gather scientists from different disciplines who work with such models to reflect on existing applications of language models in the behavioral sciences and discuss avenues to leveraging their potential for understanding and predicting human behavior. We will identify opportunities and challenges that arise when using language models to understand and predict human behavior, identify potential for collaboration, and develop plans to advance research and applications of large language models in the behavioral sciences. 
+
+## Format
+
+The workshop will involve a set of working meetings to address four different themes, specifically, 1) language models as models of human knowledge and attitudes, 2) language models as tools for behavioral science research, 3) contributions of behavioral sciences to the development of language models, and 4) ethical and practical challenges concerning the current and future use of language models in the behavioral sciences. 
+
+Participants will be assigned to one of the four themes ahead of the workshop to allow for preparation. Participants will meet and discuss within each of the four working groups to set an outline for discussion and prepare a presentation that summarizes their key points. The four working groups will present a summary of their discussions to all workshop participants. Afterwards, the workshop organizers will collate the input from the different groups and summarize their conclusions. One possible outcome of the workshop is a joint publication outlining the conclusions from the group discussions. 
+
+## Schedule
+
+Day 1: Training: The first day consists of a workshop offered by [Zak Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/) & [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) targeting junior researchers to provide an introduction to the use of LLMs in the behavioral sciences.
+
+Day 2: Lightning talks, working group discussions: Participants give lightning talks on their own work; working groups discuss each of the topics and prepare group presentations. 
+
+Day 3: Working groups, joint summary, and wrap-up: Working groups give presentations; the workshop organizers collate the input from the different groups and present a suggestion for an outline of the conclusions.
+
+## Venue
+
+Wildt'sches Haus, Petersplatz 13, 4051 Basel.  [www.wildtsches-haus.ch](http://www.wildtsches-haus.ch).  

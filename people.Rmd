@@ -1,0 +1,72 @@
+---
+title: "People"
+description: Participants and Organization
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Participants
+
+[Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development
+
+[Alexandra Bagaïni](https://psychologie.unibas.ch/de/personen/alexandra-bagaini/), University of Basel
+
+[Lisa Beinborn](https://beinborn.eu), Vrije Universiteit Amsterdam
+
+[Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
+
+[Tim Davidson](https://www.trdavidson.com), EPFL
+
+[Laurenz Derksen](https://pp.ethz.ch/people/laurenz-derksen.html), ETH Zurich
+
+[Karsten Donnay](https://www.karstendonnay.net), University of Zurich
+
+[Steffen Eger](https://steffeneger.github.io), Bielefeld University
+
+[Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim
+
+[David Garcia](https://dgarcia.eu), University of Konstanz
+
+[Shahar Hechtlinger](https://www.mpib-berlin.mpg.de/person/102108), Max Planck Institute for Human Development
+
+[Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel
+
+[Ezequiel López López](https://www.mpib-berlin.mpg.de/person/ezequiel-lopez-lopez/171978), Max Planck Institute for Human Development
+
+[Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim
+
+[Jutta Mata](https://www.sowi.uni-mannheim.de/mata/), University of Mannheim
+
+[Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
+
+[Dominik Meier](https://wwz.unibas.ch/de/personen/dominik-meier/), University of Basel
+
+[Max Pellert](https://mpellert.at/), University of Mannheim
+
+[Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), EPFL
+
+[Giuseppe Russo](https://scholar.google.com/citations?user=sl79n2QAAAAJ&hl=en), ETH Zurich
+
+[Indira Sen](https://indiiigo.github.io), RWTH Aachen University
+
+[Hendrik Schuff](https://hendrikschuff.de), TU Darmstadt
+
+[Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
+
+[Loreen Tisdall](https://loreentisdall.github.io), University of Basel
+
+[Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), EPFL
+
+[Claudia Wagner](http://claudiawagner.info), RWTH Aachen University
+
+[Robert West](https://people.epfl.ch/robert.west), EPFL
+
+[Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development
+
+### Organization
+
+The LLMs for Behavioral Science workshop is organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development), [Markus Strohmaier](http://markusstrohmaier.info) (University of Mannheim), and [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/) (University of Basel). 
+
+Administrative support provided by [Laura Wiles](https://psychologie.unibas.ch/de/personen/laura-wiles/), Center for Cognitive and Decision Sciences, University of Basel. 
