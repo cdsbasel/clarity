@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification across the discipline. A major challenge resulting from this unchecked expansion is the prevalence of “jingle–jangle fallacies”—cases where similar terms are used to refer to different concepts or measures (jingle fallacies), as well as cases where different terms are used to refer to the same concepts or measures (jangle fallacies). This issue is closely tied to the idea of "taxonomic incommensurability" whereby theories and findings are difficult to compare due to varied mappings between theoretical constructs and empirical results. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by a lack of conceptual clarity in the psychological sciences and work towards building consensus on methods to improve clarity, which can support cumulative knowledge and applications of psychological science in the future.
+The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by a lack of conceptual clarity and identify solutions to improve conceptual clarity in psychology and related fields.
 
-The workshop will gather a number of researchers interested in these issues who will engage in active and structured discussions around specific themes as detailed in the **[workshop](workshop.html)** program. See the section on **[people](people.html)** for a full list of participants.
+The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
 
 <aside>
 Want to get in touch? Send us an email at [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch)!

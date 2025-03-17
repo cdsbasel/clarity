@@ -8,20 +8,59 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Goals
-
-The goal of this workshop is to bring together researchers in psychology and related fields to discuss the challenges posed by a lack of conceptual clarity in the psychological sciences and work towards building consensus on methods to improve clarity, which can support cumulative knowledge and applications of psychological science in the future.
-
-## Format
-
-## Schedule
-
-Day 1: Get together and welcome dinner.
-
-Day 2: Lightning talks, working group discussions: Participants give lightning talks on their own work; working groups discuss specific topics and prepare group presentations. 
-
-Day 3: Working groups, joint summary, and wrap-up: Working groups give presentations; the workshop organizers collate the input from the different groups and present a suggestion for an outline of the conclusions.
-
 ## Venue
 
 Hotel Odelya,  Missionsstrasse 21a, 4055 Basel, Switzerland.[www.odelya.ch](https://www.odelya.ch/en/hotel)
+
+## Goals
+
+This workshop brings together researchers from psychology and related fields to explore the challenges posed by conceptual confusion in the psychological sciences. Through presentations, discussions, and collaborative sessions, we aim to identify methods for improving conceptual clarity and assess consensus for the deployment of the identified solutions in the psychological sciences.
+
+## Schedule
+
+
+### Wednesday, September 10  
+**17:00** | Informal gathering & welcome dinner  
+
+
+### Thursday, September 11  
+
+**9:00 - 10:30** | **Lightning Talks (Session 1)**  
+Short presentations from participants on their research and its relevance to conceptual clarity.  
+
+**10:30 - 11:00** | **Coffee Break**  
+
+**11:00 - 12:30** | **Lightning Talks (Session 2)**  
+
+**12:30 - 14:00** | **Lunch Break**  
+
+**14:00 - 15:00** | **Virtual Keynote: Russ Poldrack (Stanford University)**  
+
+**15:00 - 16:00** | **Working Group Discussions (Session 1)**  
+Participants break into groups to discuss specific solutions for improving conceptual clarity.  
+
+**16:00 - 16:30** | **Coffee Break**  
+
+**16:30 - 17:30** | **Working Group Discussions (Session 2)**  
+
+**19:00 - 21:00** | **Workshop Dinner**  
+
+### Friday, September 12  
+
+**9:00 - 10:30** | **Working Group Discussions & Summary Preparation**  
+Groups finalize their insights and prepare presentations.  
+
+**10:30 - 11:00** | **Coffee Break**  
+
+**11:00 - 12:30** | **Working Group Presentations (Session 1)**  
+
+**12:30 - 14:00** | **Lunch Break**  
+
+**14:00 - 15:00** | **Working Group Presentations (Session 2)**  
+
+**15:00 - 15:30** | **Coffee Break**  
+
+**15:30 - 15:50** | **Discussion: Conclusions & Future Steps**  
+Summary of key takeaways and planning next actions.  
+
+**15:50 - 16:00** | **Wrap-up & Farewell**  
