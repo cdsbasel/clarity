@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by a lack of conceptual clarity and identify solutions to improve conceptual clarity in psychology and related fields.
+The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by conceptual confusion and identify solutions to improve conceptual clarity in psychology and related fields.
 
 The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
 
