@@ -25,7 +25,10 @@ This workshop brings together researchers from psychology and related fields to 
 
 ### Thursday, September 11  
 
-**9:00 - 10:30** | **Lightning Talks (Session 1)**  
+**9:00 - 9:45** | **Introduction Round**  
+Participants introduce themselves and discuss how their work and interests are relevant to the discussion of conceptual clarity.  
+
+**9:45 - 10:30** | **Lightning Talks (Session 1)**  
 Short presentations from participants on their research and its relevance to conceptual clarity.  
 
 **10:30 - 11:00** | **Coffee Break**  
@@ -37,7 +40,7 @@ Short presentations from participants on their research and its relevance to con
 **14:00 - 15:00** | **Virtual Keynote: Russ Poldrack (Stanford University)**  
 
 **15:00 - 16:00** | **Working Group Discussions (Session 1)**  
-Participants break into groups to discuss specific solutions for improving conceptual clarity.  
+Participants break into groups to identify specific solutions for improving conceptual clarity. 
 
 **16:00 - 16:30** | **Coffee Break**  
 
