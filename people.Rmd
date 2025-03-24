@@ -35,6 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Max Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
 
+[Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
+
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
 
 ### Organization
