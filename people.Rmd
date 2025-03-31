@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Loreen Tisdall](https://loreentisdall.github.io), University of Basel  
 
-[Max Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
+[Maximilian Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
 
 [Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
 
