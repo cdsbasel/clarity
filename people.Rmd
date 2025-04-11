@@ -35,6 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Maximilian Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
 
+[Isabel Thielmann](https://csl.mpg.de/en/isabel-thielmann), Max Planck Institute for the Study of Crime, Security and Law   
+
 [Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
 
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
