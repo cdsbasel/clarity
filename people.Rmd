@@ -13,6 +13,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
 
+[Beth Clarke](https://beth-clarke.com), University of Melbourne 
+
+[Jamie Cummins](https://www.dig.psy.unibe.ch/ueber_uns/personen/dr_cummins_jamie/index_ger.html), University of Bern 
+
 [Jennifer D’Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), TIB - Leibniz Information Centre for Science and Technology  
 
 [Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern  
