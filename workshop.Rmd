@@ -61,7 +61,10 @@ Short presentations on research relevant to conceptual clarity (ca. 15 min, incl
 
 **12:30 - 14:00** | **Lunch Break**  
 
-**14:00 - 15:00** | **Virtual Keynote: Russ Poldrack (Stanford University)**  
+**14:00 - 15:00** | **Virtual Keynote**
+
+**Conceptual clarity in cognitive neuroscience: What’s the goal?**
+[Russell Poldrack](http://poldrack.github.io), Stanford University   
 
 **15:00 - 16:00** | **Working Group Discussions: Identifying Problems (Session 1)**  
 Participants break into groups to identify specific solutions for improving conceptual clarity. 
