@@ -9,7 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Participants (alphabetical order)
 
-[Samuel Aeschbach](https://samuelaeschbach.com), University of Basel  
+[Samuel Aeschbach](https://samuelaeschbach.com), University of Basel 
+
+[Dorothée Bentz](https://psychologie.unibas.ch/de/personen/dorothee-bentz/), University of Basel 
 
 [Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
 
