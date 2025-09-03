@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Venue
 
-Hotel Odelya (Room Campesino), Missionsstrasse 21a, 4055 Basel, Switzerland.[www.odelya.ch](https://www.odelya.ch/en/hotel)
+[Hotel Odelya](https://www.odelya.ch/en/hotel), Room Campesino, Missionsstrasse 21a, 4055 Basel, Switzerland.
 
 ## Goals
 
